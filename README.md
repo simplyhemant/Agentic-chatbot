@@ -162,13 +162,3 @@ Open your browser at `http://localhost:8501`.
    - 📰 **AI News**: Select timeframe (**Daily**, **Weekly**, or **Monthly**) and click **🔍 Fetch Latest AI News**. The agent runs the 3-node graph pipeline and outputs a clean markdown report saved locally in `AINews/`.
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check out the issues page or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
